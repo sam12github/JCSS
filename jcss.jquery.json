@@ -1,0 +1,27 @@
+{
+  "name": "jquery.jcss",
+  "title": "JCSS Plugin",
+  "description": "The JCSS  allows you to filter your content based on css values ",
+  "version": "1.2.1",
+  "homepage": "https://github.com/sam12github/JCSS",
+  "author": {
+    "name": "S H ",
+    "email": "sinfx12@gmail.com",
+    "url": "https://github.com/sam12github/JCSS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sam12github/JCSS.git"
+  },
+  "bugs": "https://github.com/sam12github/JCSS",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sam12github/JCSS/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
